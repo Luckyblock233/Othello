@@ -1,0 +1,3 @@
+{
+    "files": ["widget.py","Board.py","Node.py","Infomation.py","AI.py","form.ui","resource.qrc"]
+}
